@@ -1,16 +1,14 @@
-## Hi there 👋
+Boas vindas ao meu perfil 
 
-<!--
-**Rafael-550/Rafael-550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafael Thiengo 
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫
+
+rafaelthiengo321@gmail.com
+
+![]([link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F2486154-maxwell-the-cat-spinning-cat&psig=AOvVaw1WRSRaJFukcDr_xFJtn9Vj&ust=1717869991470000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCND1zsaKyoYDFQAAAAAdAAAAABAi))
+
